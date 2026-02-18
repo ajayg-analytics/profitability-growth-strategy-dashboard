@@ -34,8 +34,18 @@ The goal was not just to visualize sales, but to understand where profit is real
 
 ## Dashboard Preview
 
+### Page 1 — Executive Overview
+![Dashboard Page 1](dashboard-overview%201.png)
+
+### Page 2 — Category Behaviour
+![Dashboard Page 2](dashboard-overview%202.png)
+
+### Page 3 — Strategic Signals
+![Dashboard Page 3](dashboard-overview%203.png)
+
 ## How to Use
 
 Download the `.pbix` file and open in Power BI Desktop to explore the interactive dashboard.
+
 
 Use category and year filters to analyze demand momentum and profitability behaviour across segments.
